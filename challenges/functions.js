@@ -40,7 +40,9 @@ console.log(consume("Mary", "Poppins", greeting)) // Hello Mary Poppins, nice to
 
 // Explain in your own words why nestedfunction can access the variable internal.
 
-// Explanation: 
+
+
+// Explanation:  My answer is that since a variable is just a property of any object, in this case internal, to implement a change on any such variable invariable means to do sam e on the pro[erty of any the concerned object.
 
 
 
